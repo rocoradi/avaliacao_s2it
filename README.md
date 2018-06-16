@@ -16,3 +16,7 @@ Avaliação S2it
 6 - **C**
 
 7 - **E**
+
+8 - **código fonte disponível**
+
+9 - **código fonte disponível**
