@@ -2,6 +2,7 @@
 Avaliação S2it
 
 **Respostas das perguntas:**
+
 1 - **A**
 
 2 - **D**
